@@ -1,0 +1,22 @@
+.year{
+margin-top: 5%;
+}
+
+table{
+border-collapse: collapse;
+border-style: solid;
+border-width: 2px;
+text-align: center;
+margin: auto;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+td{
+height: 45px;
+width: 80px;
+
+
+}

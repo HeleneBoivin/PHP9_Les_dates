@@ -1,0 +1,32 @@
+.year{
+margin-top: 5%;
+}
+
+.table{
+border-collapse: collapse;
+border-style: solid;
+border-width: 2px;
+text-align: center;
+margin: auto;
+}
+
+h1{
+  font-style: italic;
+}
+
+th{
+
+height: 30px;
+width: 100px;
+background-color: grey;
+color : white;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+td{
+height: 45px;
+
+}
